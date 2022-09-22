@@ -11,3 +11,7 @@ Proposta de Projeto de Banco de Dados para construir um esquema conceitual do ze
 - A mesma equipe avalia e executa os serviços;
 - Os mecânicos possuem código, nome, endereço e especialidade;
 - Cada OS possui número, data de emissão, valor, status e uma data para conclusão.
+
+## Modelo Conceitual
+![alt text](https://github.com/lorranyoliveira-dev/dio-projeto-oficina/blob/main/modelo_conceitual_oficina.png)
+
